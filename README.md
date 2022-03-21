@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 💼   I aspire to work as a full stack web developer.
 </br>
-⚡ Fun fact I love travelling and dancing.
+⚡ Fun fact I love travelling and dancing.</br>
+🗺️ Want to know more? Check out my portfolio <a href="https://anjum-ara.vercel.app/"> here </a>. <br/>
 
 </br>
 
