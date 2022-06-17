@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anjum Ara</h1>
+<h1 align="center">Hi there , I'm Anjum Ara</h1>
 <h3 align="center">Full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
 
 <br/>
