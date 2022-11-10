@@ -51,9 +51,9 @@ Here are some ideas to get you started:
   
 <br/>
 <h2 align="left">👷 Stats so far</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jf-anjum&show_icons=true&locale=en" alt="anjumara07" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jf-anjum&" alt="anjumara07" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jf-anjum&show_icons=true&locale=en&layout=compact" alt="anjumara07" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjumara07&show_icons=true&locale=en" alt="anjumara07" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjumara07&" alt="anjumara07" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjumara07&show_icons=true&locale=en&layout=compact" alt="anjumara07" /></p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
