@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <br/>
 <h4>About Me</h4>
-🎓   Learning Full Stack Web Development, MERN stack, Javascript and its frameworks at Masai School remotely.
+🎓   Learned Full Stack Web Development, MERN stack, Javascript and its frameworks at Masai School remotely.
 </br>
-🌱   Learning Data Structure and Algorithms.
+🌱   Data Structure and Algorithms.
 
 💼   I aspire to work as a full stack web developer.
 </br>
